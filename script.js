@@ -10,8 +10,4 @@ $(".fontdiv").click(function () {
   $(".collapse").collapse("hide");
 });
 
-// $(".case").live('click', function(){
-//     $.fancybox({
-//         openEffect: 'elastic',
-//         closeEffect: 'elastic'
-//     });
+
