@@ -1,6 +1,7 @@
 # Portfoliov2.0
 
-[Click here to view the live profile](https://sujatha-m.github.io/Portfoliov2.0/)
+**Deployed Web URL**
+https://sujatha-m.github.io/Portfoliov2.0/
 
 Updated portfolio page using HTML, CSS, Bootstrap, & JavaScript. Features mobile responsive.
 
